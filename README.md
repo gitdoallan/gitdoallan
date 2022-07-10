@@ -10,7 +10,7 @@ I'm a brazilian guy who loves to travel and eat food from all around the world. 
 * 🖥️  See my portfolio at [My Portfolio](http://gitdoallan.github.io/)
 * ✉️  You can contact me at [mailtoallan@icloud.com](mailto:mailtoallan@icloud.com)
 * 🚀  I'm currently working on [Youtubinho](http://github.com/gitdoallan/youtubinho)
-* 🧠  I'm learning MySql
+* 🧠  I'm learning Sequelize
 * ⚡  Professional trader. Fast learning. Great with communication. Bilingual: Portuguese and English.
 
 ### Skills
