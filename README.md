@@ -1,16 +1,16 @@
 Hi 👋 My name is Allan Carvalho
 ===============================
 
-Front-end Developer | Back-end Developer Student.
+Full stack developer student.
 -------------------------------------------------
 
-I'm a brazilian guy who loves to travel and eat food from all around the world. Mexican food is my all time favorite cousine. I do love to play video games, specially from Nintendo. Mario Party Superstars is my jam right now. I've been investing and trading cryptocurrencies since 2014 and all that programming from the "white papers" made me interested in become a computer programmer.
+I'm a brazilian guy who loves to travel and eat food from all around the world. Mexican food is my all time favorite cousine. I do love to play video games, specially from Nintendo. Mario Party Superstars is my jam right now. I've been investing and trading cryptocurrencies since 2014.
 
 * 🌍  I'm based in Brasilia - DF
 * 🖥️  See my portfolio at [My Portfolio](http://gitdoallan.github.io/)
 * ✉️  You can contact me at [mailtoallan@icloud.com](mailto:mailtoallan@icloud.com)
 * 🚀  I'm currently working on [Youtubinho](http://github.com/gitdoallan/youtubinho)
-* 🧠  I'm learning Sequelize
+* 🧠  I'm learning MongoDB
 * ⚡  Professional trader. Fast learning. Great with communication. Bilingual: Portuguese and English.
 
 ### Skills
