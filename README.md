@@ -4,7 +4,7 @@ Hi 👋 My name is Allan Carvalho
 Full stack developer.
 -------------------------------------------------
 
-I'm a brazilian guy who loves to travel and eat food from all around the world. Mexican food is my all time favorite cousine. I do love to play video games, specially from Nintendo. Mario Party Superstars is my jam right now. I've been investing and trading cryptocurrencies since 2014.
+I'm a Brazilian guy who loves to travel and eat food from all around the world. Mexican food is my all-time favorite cuisine. I do love to play video games, especially from Nintendo. Mario Party Superstars is my jam right now. I've been investing and trading cryptocurrencies since 2014.
 
 * 🌍  I'm based in Brasilia - DF
 * 🖥️  See my portfolio at [My Portfolio](http://gitdoallan.github.io/)
