@@ -35,3 +35,8 @@ I'm a Brazilian guy who loves to travel and eat food from all around the world. 
 ### Socials
 
 <p align="left"> <a href="http://www.instagram.com/instadobabe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/valueOfAllan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### Stats
+<a href="https://github.com/gitdoallan">
+<img align="center" height="160rem" src="https://github-readme-stats.vercel.app/api?username=gitdoallan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img align="center" height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitdoallan&layout=compact&langs_count=7&theme=dracula"/>
