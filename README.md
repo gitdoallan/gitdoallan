@@ -13,7 +13,7 @@ I'm currently studying back-end technologies.
 I do love to travel and eat food from all around the world. Mexican food is my all-time favorite cuisine. I do love to play video games, especially from Nintendo. Mario Party Superstars is my jam right now. I've been investing and trading cryptocurrencies since 2014.
 
 
-* ✉️  You can contact me at [mailtoallan@icloud.com](mailto:mailtoallan@icloud.com)
+* ✉️  You can contact me at [mailtoallan@icloud.com](mailto:mailtoallan@icloud.com) and +1 (321) 234-7679
 
 ### Skills
 
