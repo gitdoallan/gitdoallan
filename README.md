@@ -1,7 +1,7 @@
 Hi 👋 My name is Allan Carvalho
 ===============================
 
-Full-Stack Web Developer
+Full Stack Web Developer
 -------------------------------------------------
 
 I'm a brazilian web developer and have built over 50 distinct projects. 
