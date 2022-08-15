@@ -44,5 +44,4 @@ React.js, React Native, Node.js, JavaScript, TypeScript, Git, MySQL, HTML, WordP
 
 ### Stats
 <a href="https://github.com/gitdoallan">
-<img align="center" height="160rem" src="https://github-readme-stats.vercel.app/api?username=gitdoallan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img align="center" height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitdoallan&layout=compact&langs_count=7&theme=dracula"/>
