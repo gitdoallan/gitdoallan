@@ -1,4 +1,3 @@
-Hi 👋 My name is Allan Carvalho
 ===============================
 
 Full Stack Web Developer
