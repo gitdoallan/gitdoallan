@@ -4,8 +4,6 @@ Full Stack Web Developer
 I'm a brazilian web developer and have built over 50 distinct projects. 
 My last full stack project was a fantastic ride to code using HTML5, Styled Components, Javascript, React.js, Redux Toolkit, Docker, Node.js, Express.js, and MySQL.
 
-I do love React.js and React Native. I do love challenges and solving problems.
-
 I do love to travel and eat food from all around the world. Mexican food is my all-time favorite cuisine. I do love to play video games, especially from Nintendo. Mario Party Superstars is my jam right now. I've been investing and trading cryptocurrencies since 2014.
 
 
