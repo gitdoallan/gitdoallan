@@ -8,7 +8,7 @@ I do love to travel and eat food from all around the world. Mexican food is my a
 
 
 * ✉️  You can contact me at: 
-* E-mail: [mailtoallan@icloud.com](mailto:mailtoallan@icloud.com)
+* E-mail: [allan.carvalho@toptal.com](mailto:allan.carvalho@toptal.com)
 * Phone Number: +1 (321) 234-7679
 
 ### Skills
