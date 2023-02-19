@@ -34,7 +34,7 @@ React.js, React Native, Node.js, JavaScript, TypeScript, Git, MySQL, HTML, WordP
 
 ### LinkedIn
 
-<a href="https://www.linkedin.com/in/valueOfAllan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<a href="https://www.linkedin.com/in/allanforbusiness" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Stats
 <a href="https://github.com/gitdoallan">
